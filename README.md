@@ -1,6 +1,6 @@
 # Tetris_Prototype
 
-+University_Project
++ University_Project
 
 (1) 프로젝트 주제
 : 객체 지향 프로그래밍에서 배운 지식들을 활용해 Tetris를 요구사항에 맞춰 만든다.

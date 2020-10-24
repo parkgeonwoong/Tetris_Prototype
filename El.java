@@ -22,4 +22,4 @@ public class El extends piece {
 		return 4;
 	}
 }
-d
+

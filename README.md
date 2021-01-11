@@ -19,6 +19,6 @@
 			(Version: 2020-03 (4.15.0) 
 
 
-+ 프로젝트 제작 방식을 보며 클래스 관계 
+### Backlog
 
 <img src="https://user-images.githubusercontent.com/65653053/104177234-ca679b00-544b-11eb-93f4-fbf2e8cdd914.png" width="50%"></img>
